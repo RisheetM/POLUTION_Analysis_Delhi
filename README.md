@@ -16,3 +16,6 @@ Go to this link(https://wustl.app.box.com/v/ACAG-V5GL04-GWRPM25/folder/230741641
 You can use either the NetCDF4 library or the Xarray library(preferred) in Python.
 
 -Use the same link to download files corresponding to all the months in 2021. Compute the spatial average after trimming to Delhi’s latitude and longitude bounds by month. Plot the time series of the monthly spatial averages.   
+
+
+NOTE:- Filepath of the files may be required to be changed as filepaths will vary as per your system 
